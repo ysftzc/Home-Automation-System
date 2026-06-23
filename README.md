@@ -1,7 +1,3 @@
-# Home Automation System Term Project
-
-**Course:** Introduction to Microcomputers (2025-2026 Fall)
-**Department:** Electrical-Electronics Engineering / Computer Engineering, ESOGU
 
 ## 📖 Project Abstract
 
